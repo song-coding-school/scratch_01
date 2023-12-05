@@ -2,8 +2,8 @@
 
 | '진우'의 똥 피하기 게임 [(Github page)](https://github.com/song-coding-school/01-Park-Jinoo) |
 |-----------------------|
-|<a href="https://song-coding-school.github.io/01-Park-Jinoo/"><img src="https://github.com/song-coding-school/scratch_01/blob/main/jinwoo.png?raw=true" width=600px /></a>|
+|<a href="https://song-coding-school.github.io/01-Park-Jinoo/"><img src="https://github.com/song-coding-school/01-Park-Jinoo/blob/main/game.png" width=600px /></a>|
 
 | '하윤이'의 똥 피하기 게임 [(Github page)](https://github.com/song-coding-school/01-Park-Hayun)|
 |-----------------------|
-|<a href="https://song-coding-school.github.io/01-Park-Hayun/"><img src="https://github.com/song-coding-school/scratch_01/blob/main/hayun.png?raw=true" width=600px /></a>|
+|<a href="https://song-coding-school.github.io/01-Park-Hayun/"><img src="https://github.com/song-coding-school/01-Park-Hayun/blob/main/game.png" width=600px /></a>|
