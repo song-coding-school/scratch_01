@@ -2,5 +2,10 @@
 
 | '진우'의 똥 피하기 게임 |
 |-----------------------|
-|<img src="https://raw.githubusercontent.com/yonghun16/starbucks_clone/main/main_img.png" width=825px />|
+|<a href="https://song-coding-school.github.io/01-Park-Jinoo/"><img src="https://github.com/song-coding-school/scratch_01/blob/main/jinwoo.png?raw=true" width=600px /></a>|
 |[Github 페이지](https://github.com/song-coding-school/01-Park-Jinoo")|
+
+| '하윤이'의 똥 피하기 게임 |
+|-----------------------|
+|<a href="https://song-coding-school.github.io/01-Park-Hayun/"><img src="https://github.com/song-coding-school/scratch_01/blob/main/hayun.png?raw=true" width=600px /></a>|
+|[Github 페이지](https://github.com/song-coding-school/01-Park-Hayun")|
