@@ -2,8 +2,8 @@
 
 | '진우'의 스크레치3.0 게임 |
 |-----------------------|
-|<a href="https://song-coding-school.github.io/2023-0101001_Jinoo/"><img src="https://github.com/song-coding-school/2023-0101001_Jinoo/blob/main/img/certificate20230802.png" width=600px /></a>|
+|<a href="https://github.com/song-coding-school/2023-0101001_Jinoo/"><img src="https://github.com/song-coding-school/2023-0101001_Jinoo/blob/main/img/certificate20230802.png" width=600px /></a>|
 
 | '하윤이'의 스크래치3.0 게임|
 |-----------------------|
-|<a href="https://song-coding-school.github.io/2023-0101002_Hayun/"><img src="https://github.com/song-coding-school/2023-0101002_Hayun/blob/main/img/certificate20230803.png?raw=true" width=600px /></a>|
+|<a href="https://github.com/song-coding-school/2023-0101002_Hayun/"><img src="https://github.com/song-coding-school/2023-0101002_Hayun/blob/main/img/certificate20230803.png?raw=true" width=600px /></a>|
