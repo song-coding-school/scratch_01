@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=4078c0&height=180&section=header&text=스크래치%20코딩%201기&fontSize=45&animation=fadeIn&fontAlignY=38)
+![header](https://capsule-render.vercel.app/api?type=waving&color=4078c0&height=180&section=header&text=스크래치%20게임만들기%201기&fontSize=45&animation=fadeIn&fontAlignY=38)
 
 | '진우'의 똥 피하기 게임 [(Github page)](https://github.com/song-coding-school/01-Park-Jinoo) |
 |-----------------------|
